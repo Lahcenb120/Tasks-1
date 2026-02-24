@@ -21,7 +21,7 @@ else:
 
 
 
-sukupuoli = input("Anna biologinen sukupuoli (nainen/mies): ").strip().lower()
+sukupuoli = input("Anna biologinen sukupuoli (nainen/mies): ")
 hb = int(input("Anna hemoglobiiniarvo (g/l): "))
 
 if sukupuoli == "nainen":
