@@ -5,6 +5,8 @@ while luku <= 1000:
     luku += 1
 
 
+
+
 while True:
     tuumat = float(input("Anna tuumat: "))
     if tuumat < 0:

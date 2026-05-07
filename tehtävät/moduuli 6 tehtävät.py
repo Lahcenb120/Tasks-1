@@ -31,8 +31,6 @@ print("Lukujen summa:", summa)
 
 
 
-
-
 def karsi_parittomat(lista):
     uusi_lista = []
     for luku in lista:
